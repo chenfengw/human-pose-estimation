@@ -1,6 +1,7 @@
 # ignore imgaes
 *.png
 !imgaes/
+!demo_imgs/
 *.pth
 
 # Byte-compiled / optimized / DLL files
